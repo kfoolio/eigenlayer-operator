@@ -2,6 +2,6 @@
     "name": "Kfoolio Testnet",
     "website": "https://www.kfoolio.com",
     "description": "Operator For EigenLayer.",
-    "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
+    "logo": "https://raw.githubusercontent.com/kfoolio/eigenlayer-operator/main/public/logo.png",
     "twitter": "https://x.com/KfoolioOperator"
   }
